@@ -1,2 +1,3 @@
-# EX1
+# EX1-Tippawan
 sitthisak budsarakhamkul
+
